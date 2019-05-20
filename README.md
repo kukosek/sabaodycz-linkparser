@@ -1,0 +1,2 @@
+# sabaodycz-linkparser
+Java program na protřídění linků na stahování anime "one piece" ze stránky http://sabaody.wz.cz/anime.php. Vytvořil jsem ho, protože jsem si chtěl stáhnout všechny díly naráz přes linky na mega.nz z této stránky, problémem ale bylo, že ke každému dílu máte několik možností. Tímto jsem si celkem ulehčil práci. Na následné hromadné stáhnutí linků z mega.nz doporučuji https://github.com/tonikelope/megabasterd
